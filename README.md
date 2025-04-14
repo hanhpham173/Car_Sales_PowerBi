@@ -56,7 +56,6 @@ The dataset was structured into the following five tables:
 ## 📈 Dashboard Highlights  
 
 ![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/11dcc94f5f3c7a56563312d9558a17b16188cffb/sc2.JPG)  
-![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/d45728ea2ccb2feddf2657869709600a9269fbd8/sc3.JPG)
 
 ### 🔢 Total Sales Metrics  
 - **YTD Total Sales**: $371.19M (+23.59% YoY)  
@@ -81,10 +80,12 @@ The dataset was structured into the following five tables:
 
 ### 🌍 Sales by Region (Map View)  
 - **Austin**: highest units sold (2,296)  
-- **Pasco**: lowest units sold (1,749)  
+- **Middletown**: lowest units sold (1,722)  
 
 ### 🏢 Sales by Company  
 - **Chevrolet**: 1,043 units | $27.11M in revenue  
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/d45728ea2ccb2feddf2657869709600a9269fbd8/sc3.JPG)
 
 ### 📋 Detailed Sales Table  
 - Transaction-level data showing car model, body style, region, date, customer, dealer, and amount  
