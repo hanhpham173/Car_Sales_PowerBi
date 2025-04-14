@@ -85,10 +85,10 @@ The dataset was structured into the following five tables:
 ### 🏢 Sales by Company  
 - **Chevrolet**: 1,043 units | $27.11M in revenue  
 
-![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/d45728ea2ccb2feddf2657869709600a9269fbd8/sc3.JPG)
-
 ### 📋 Detailed Sales Table  
 - Transaction-level data showing car model, body style, region, date, customer, dealer, and amount  
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/d45728ea2ccb2feddf2657869709600a9269fbd8/sc3.JPG)
 
 ---
 
