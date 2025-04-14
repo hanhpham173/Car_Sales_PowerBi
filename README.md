@@ -65,6 +65,9 @@ Car: Car ID, Model, Body Style, Colour, Company, Engine, Price, Transmission
 Fact_Car: Transaction data including Car ID, Customer ID, Dealer ID, Price, Date, Region
 
 📈 Dashboard Highlights
+
+https://github.com/hanhpham173/Car_Sales_PowerBi/blob/11dcc94f5f3c7a56563312d9558a17b16188cffb/sc2.JPG
+
 Total Sales Metrics
 
 YTD Total Sales: $371.19M (+23.59% YoY)
