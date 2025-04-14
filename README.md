@@ -49,6 +49,9 @@ Designed a clean, intuitive layout for easy navigation.
 Included interactive slicers, tooltips, and a filter pane for enhanced user experience.
 
 🗃️ Data Modeling
+
+![Dashboard Screenshot](https://raw.githubusercontent.com/hanhpham173/Car_Sales_PowerBi/70ec5e2f8ee74f73d8a0f7ee5fd0dba52d9ff09a/sc1.JPG)
+
 The dataset was structured into the following five tables:
 
 Customers: Customer ID, Name, Gender, Annual Income
